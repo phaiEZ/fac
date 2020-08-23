@@ -5,7 +5,7 @@ int z;
 int main()
 {
     for (i = 0; i < 4; i++) {
-        scanf("%lld", &x[i]);
+        scanf_s("%lld", &x[i]);
     }
     for (j = 0; j < 4; j++) {
         ans = 1;
