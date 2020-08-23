@@ -4,10 +4,10 @@ long long x[20];
 int z;
 int main()
 {
-    for (i = 0; i <= ; i++) {
-        scanf_s("%lld", &x[i]);
+    for (i = 0; i < 4; i++) {
+        scanf("%lld", &x[i]);
     }
-    for (j = 0; j <= 4; j++) {
+    for (j = 0; j < 4; j++) {
         ans = 1;
         z = x[j];
         if (x[j] == 0) {
