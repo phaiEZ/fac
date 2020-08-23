@@ -21,7 +21,7 @@ int main()
         x[j] = ans;
     }
 
-    for (i = 0; i <= 4; i++)
+    for (i = 0; i < 4; i++)
     {
         printf("%lld\n", x[i]);
     }
